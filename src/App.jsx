@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <HeroPageComponent />
-      <SymbolOfExcellenceComponent />
-      <DummyBoxComponent />
+      {/* <SymbolOfExcellenceComponent />
+      <DummyBoxComponent /> */}
     </>
   );
 }
